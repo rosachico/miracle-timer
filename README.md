@@ -9,5 +9,5 @@ A. MITライセンスの範囲内でしたらご自由にどうぞ。
 お遊びで作ったのでサポートは受け付けていません。  
 
 ## 作った人：すう
-@suesueisland
+@suesueisland  
 https://rosachico.netlify.app/
