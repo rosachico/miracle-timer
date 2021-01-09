@@ -8,6 +8,7 @@ A. 2時間経ったらビープ音でお知らせしてくれるタイマーで�
 A. MITライセンスの範囲内でしたらご自由にどうぞ。  
 お遊びで作ったのでサポートは受け付けていません。  
 
-## 作った人：白鳥チコ
+## 連絡先
+白鳥チコ(Chico Shiratori)  
 @cliemuparfait  
-https://rosachico.netlify.app/
+https://cliemuparfait.sakura.ne.jp/
